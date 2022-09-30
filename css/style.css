@@ -49,12 +49,12 @@ section {
     height: 30vh;
 }
 section:nth-of-type(odd) {
-    color: black;
+    color: rgb(37, 20, 20);
     background: f8f8f8;
 }
 
 section:nth-of-type(even) {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(32, 14, 14, 0.8);
     background: rgb(0, 0, 0);
 }
 section .content {
